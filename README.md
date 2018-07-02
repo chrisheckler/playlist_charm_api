@@ -13,4 +13,3 @@ The api will be deployed using Juju and a postgress database would need to be de
 - Album
 - Song
 - Genre
-- 
